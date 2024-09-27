@@ -5,8 +5,29 @@
     <link>http://wqc24.github.io/</link>
     <description>Recent content on 注意事项</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 26 Sep 2024 15:16:00 +0800</lastBuildDate>
     <atom:link href="http://wqc24.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>http://wqc24.github.io/post/first/</link>
+      <pubDate>Thu, 26 Sep 2024 15:16:00 +0800</pubDate>
+      <guid>http://wqc24.github.io/post/first/</guid>
+      <description>&lt;p&gt;aaa&lt;/p&gt;&#xA;&lt;p&gt;bbb&lt;/p&gt;&#xA;&lt;p&gt;ccc&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Second</title>
+      <link>http://wqc24.github.io/post/second/</link>
+      <pubDate>Thu, 26 Sep 2024 15:16:00 +0800</pubDate>
+      <guid>http://wqc24.github.io/post/second/</guid>
+      <description>&lt;p&gt;aaa&lt;/p&gt;&#xA;&lt;p&gt;bbb&lt;/p&gt;&#xA;&lt;p&gt;ddd&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://wqc24.github.io/about/</link>
+      <pubDate>Thu, 26 Sep 2024 15:15:03 +0800</pubDate>
+      <guid>http://wqc24.github.io/about/</guid>
+      <description>&lt;p&gt;zhe shi nei rong&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
